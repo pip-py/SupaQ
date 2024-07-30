@@ -1,7 +1,7 @@
 Supa Q 
-===
+=====
 
-A simple discrete event simulation library for the simplest of networks
+A simple [discrete event simulation](https://en.wikipedia.org/wiki/Discrete-event_simulation) library for the simplest of networks
 ---------------------------------------------------------
 
 
