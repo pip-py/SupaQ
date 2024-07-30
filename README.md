@@ -11,7 +11,7 @@
 ![SUPAQDES2 drawio](https://github.com/user-attachments/assets/bc9a9535-a650-4a6d-b456-4492d2d6b33f)
 
 
-## Overview 
+### Overview 
 
 SupaQ was designed specifically to run various different scenarios on;
 * Changes to inter-arrival times
@@ -21,4 +21,10 @@ SupaQ was designed specifically to run various different scenarios on;
 And to have pre-packaged interpretability and visuals of;
 * Wait Times
 * Wait Lists
+
+### Why SupaQ and not other open-source?
+* To run simulations where the service node **isn't** emptied
+* To have a highly performant DES that can run on any machine
+* To provide an off-the-shelf implementation for many of the demands of forecasting in the healthcare sector
+
 
