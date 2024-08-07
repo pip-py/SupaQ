@@ -1,4 +1,4 @@
-# Supa Q 
+# Supa Q - In Development
 ---------------------------------------------------------
 
 #### A simple [discrete event simulation](https://en.wikipedia.org/wiki/Discrete-event_simulation) library for the simplest of networks
@@ -11,7 +11,9 @@
 ![SUPAQDESv3 drawio](https://github.com/user-attachments/assets/52904a92-add9-4aed-b507-18d5ca7f6186)
 
 
-
+#### Updates
+* 20240807 - expected first view Sep24
+  
 ### Overview 
 
 SupaQ was designed specifically to run various different scenarios on;
